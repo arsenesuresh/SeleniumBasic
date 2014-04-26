@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="173" started-at="2014-04-06T17:19:20Z" finished-at="2014-04-06T17:19:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="173" started-at="2014-04-06T17:19:20Z" finished-at="2014-04-06T17:19:20Z">
+      <class name="TestNg">
+        <test-method status="PASS" signature="PreReq()[pri:0, instance:TestNg@1460d0eb]" name="PreReq" is-config="true" duration-ms="41" started-at="2014-04-06T18:19:20Z" finished-at="2014-04-06T18:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreReq -->
+        <test-method status="PASS" signature="first()[pri:0, instance:TestNg@1460d0eb]" name="first" duration-ms="32" started-at="2014-04-06T18:19:20Z" finished-at="2014-04-06T18:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="last()[pri:0, instance:TestNg@1460d0eb]" name="last" is-config="true" duration-ms="1" started-at="2014-04-06T18:19:20Z" finished-at="2014-04-06T18:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
